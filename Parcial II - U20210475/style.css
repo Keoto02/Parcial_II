@@ -1,0 +1,17 @@
+.tarjetas{
+    margin-top: 3%;
+}
+
+.formulario{
+    padding: 3%;
+    background-color: rgb(197, 196, 196);
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 5%;
+}
+
+footer{
+    text-align: center;
+    margin-top: 4%;
+}
